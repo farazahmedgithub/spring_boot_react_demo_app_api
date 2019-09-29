@@ -10,6 +10,8 @@
 - Spring Data JPA
 - Maven
 
+## Build
+``` mvn clean install```
 ## Run
 ```mvn clean spring-boot:run```
 
