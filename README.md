@@ -3,6 +3,7 @@
 ## Prerequisites
 - JDK 1.7 or later
 - Maven 3 or later
+- MySQL with DB as per application.properties
 
 ## Stack
 - Spring Security
